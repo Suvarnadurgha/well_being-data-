@@ -1,1 +1,1 @@
-Data Visualization and Story-telling using Tablaue Visualizations for well-being and lifestyle data
+Data Visualization and Story-telling using Tableau Visualizations for well-being and lifestyle data
